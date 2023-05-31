@@ -1,9 +1,12 @@
-### Hi there 👋
+# Hi I'm Caro 👋
+[![Linkedin Badge](https://img.shields.io/badge/-carolinahernández-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinahernandezbarra/)](https://www.linkedin.com/in/carolinahernandezbarra/)
+[![Instagram Badge](https://img.shields.io/badge/-@korolahernz-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/korolahernz/)]()
+[![Gmail Badge](https://img.shields.io/badge/-carolina.fhb-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carolina.fhb@gmail.com)](mailto:carolina.fhb@gmail.com)
+
+Welcome to my profile! I'm a Data Scientist, Nutricionist and professional institute teacher. I am current learning data science. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/carolinahernandezbarra/)!
+
 
 <!--
-**CaroHernz/CaroHernz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
