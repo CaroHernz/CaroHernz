@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-carolina.fhb-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carolina.fhb@gmail.com)](mailto:carolina.fhb@gmail.com)
 ![Profile views counter](https://komarev.com/ghpvc/?username=CaroHernz&&style=flat-square)  
 
-Welcome to my profile! I'm a Data Scientist, Nutricionist and professional institute teacher. I am current learning data science. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/carolinahernandezbarra/)!
+Welcome to my profile! I'm a Data Scientist, Nutricionist and professional institute teacher from 🇨🇱. I am current learning more about data science. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/carolinahernandezbarra/)!
 
 ## Languages and Tools  
 <div align="center">  
