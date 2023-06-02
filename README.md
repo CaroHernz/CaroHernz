@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-carolinahernández-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinahernandezbarra/)](https://www.linkedin.com/in/carolinahernandezbarra/)
 [![Instagram Badge](https://img.shields.io/badge/-@korolahernz-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/korolahernz/)](https://www.instagram.com/korolahernz/)
 [![Gmail Badge](https://img.shields.io/badge/-carolina.fhb-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carolina.fhb@gmail.com)](mailto:carolina.fhb@gmail.com)
-[![Portafolio Badge](https://img.shields.io/badge/-Portafolio-lightgrey?style=flat&logo=appveyor&logoColor=white&link=https://sites.google.com/view/carohernz-portafolio/)]((https://sites.google.com/view/carohernz-portafolio/))
+[![Portafolio Badge](https://img.shields.io/badge/-Portafolio-lightgrey?style=flat&logo=appveyor&logoColor=white&link=https://sites.google.com/view/carohernz-portafolio/)](https://sites.google.com/view/carohernz-portafolio/)
 ![Profile views counter](https://komarev.com/ghpvc/?username=CaroHernz&&style=flat-square)  
 
 
